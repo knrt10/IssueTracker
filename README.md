@@ -27,23 +27,7 @@ An Issue Tracker Bot allowing you to create issues easily and prevent creating a
 ## How to Use.
 
 1. Visit <a href="https://github.com/apps/issuetrack">Here</a>.
-
+git
 2. Install the github app and configue it for all repositories.
 
 3. Now when ever you create an issue in the repositoriesin which you have allowed configuration of app, issues will be checked automatically and it will prevent you from creating any duplicate issue.
-
-# To Run Locally
-
-```
-# Clone the Repo
-git clone https://github.com/knrt10/
-
-# Go to project folder
-cd IssueTracker
-
-# Install dependencies
-npm install
-
-# Run the bot
-npm start
-```
