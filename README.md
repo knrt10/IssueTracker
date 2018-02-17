@@ -34,4 +34,4 @@ An Issue Tracker Bot allowing you to create issues easily and prevent creating a
 
 2. Install the github app and configue it for all repositories.
 
-3. Now when ever you create an issue in the repositoriesin which you have allowed configuration of app, issues will be checked automatically and it will prevent you from creating any duplicate issue.
+3. Now when ever you create an issue in the repositories in which you have allowed configuration of this app, issues will be checked automatically and it will prevent you from creating any duplicate issue.
