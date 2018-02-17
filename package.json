@@ -4,7 +4,7 @@
   "description": "",
   "author": "KNRT <tripathi.kautilya@gmail.com>",
   "license": "ISC",
-  "repository": "",
+  "repository": "https://github.com/knrt10/IssueTracker",
   "scripts": {
     "start": "probot run ./index.js",
     "test": "jest && standard"
