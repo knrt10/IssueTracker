@@ -10,6 +10,9 @@
     "test": "jest && standard"
   },
   "dependencies": {
+    "express": "^4.16.2",
+    "express-async-errors": "^2.1.2",
+    "express-async-handler": "^1.0.3",
     "probot": "^5.0.0"
   },
   "devDependencies": {

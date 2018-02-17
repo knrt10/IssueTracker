@@ -1,3 +1,5 @@
+
+
 module.exports = robot => {
   robot.on('issues.opened', async context => {
 
@@ -71,7 +73,7 @@ for (i = 1, len = issue.data.length; i < len; i++) {
 }
 
 // Checking relevance and sending message to User.
-// Sending fot relevance >= 0.6
+// Sending fot relevance >= 0.67
 for(var index=0; index<results.length;index++){
     console.log(results);
   if(results[index].relevance >=0.6){
