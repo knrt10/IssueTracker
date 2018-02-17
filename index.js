@@ -1,5 +1,3 @@
-
-
 module.exports = robot => {
   robot.on('issues.opened', async context => {
 
