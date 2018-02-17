@@ -2,7 +2,11 @@
 
 An Issue Tracker Bot allowing you to create issues easily and prevent creating any duplicate issues.
 
-## How does it Work.
+## Working (Gif)
+
+<img src="http://res.cloudinary.com/dsyvg5xwi/image/upload/v1518845574/Peek_2018-02-17_11-01_tywloy.gif"/>
+
+## How does it Work (Screenshots).
 
 1. Initial State of Open issues
 
@@ -27,7 +31,7 @@ An Issue Tracker Bot allowing you to create issues easily and prevent creating a
 ## How to Use.
 
 1. Visit <a href="https://github.com/apps/issuetrack">Here</a>.
-git
+
 2. Install the github app and configue it for all repositories.
 
 3. Now when ever you create an issue in the repositoriesin which you have allowed configuration of app, issues will be checked automatically and it will prevent you from creating any duplicate issue.
